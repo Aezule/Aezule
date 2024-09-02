@@ -1,1 +1,65 @@
-<img src="https://myreadme.vercel.app/api/embed/Aezule?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Zully and I like Next.js" src="images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
+
+<!-- Social -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<br />
+<br />
+<br />
+
+<p>
+
+<img alt="Globe" height="80" src="images/globe.gif">
+</a>
+</p>
+
+</td>
+
+
+<td align="center">
+<a href="https://youtu.be/xvFZjo5PgG0">
+<strong>Listen to cool music</strong>
+<br />
+<br />
+
+
+<p>
+<img height="100" alt="Music" src="images/music.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="g"><img src="images/guestbook.svg"></a> 
+</div>
+
+<!-- Guestbook -->
+| Name | Date | Message |
+|---|---|---|
+| <a href="https://github.com/orkeilius"><img width="24" src="https://avatars.githubusercontent.com/u/11516291?s=24&u=235a8011559c052a9750741756f153e98dbc7ac3&v=4" alt="godofecht" /> orkeilius</a> |8/30/2024, 6:34:29 PM| <img src"|
+
+<!-- /Guestbook -->
+
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+
+
+</div>
