@@ -49,8 +49,9 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/orkeilius"><img width="24" src="images/magreupfp.png" alt="magreupfp" /> orkeilius</a> |8/30/2024, 6:34:29 PM| <img width="400" src="images/magreu.png" alt="magreu" />|
-
+| <a href="https://github.com/Aezule"><img width="24" src="https://avatars.githubusercontent.com/u/135966635?s=24&u=83f717e8053f270f0d165a3bb59b24828ded8e90&v=4" alt="Aezule" /> Aezule</a> |9/2/2024, 9:23:42 PM|Juste moi en fait|
+| <a href="https://github.com/Aezule"><img width="24" src="https://avatars.githubusercontent.com/u/135966635?s=24&u=83f717e8053f270f0d165a3bb59b24828ded8e90&v=4" alt="Aezule" /> Aezule</a> |9/2/2024, 9:20:50 PM|Test <( ￣^￣)>|
+| <a href="https://github.com/Aezule"><img width="24" src="https://avatars.githubusercontent.com/u/135966635?s=24&u=83f717e8053f270f0d165a3bb59b24828ded8e90&v=4" alt="Aezule" /> Aezule</a> |9/2/2024, 9:15:11 PM|Test o((>ω< ))o|
 <!-- /Guestbook -->
 
 <!-- Footer -->
