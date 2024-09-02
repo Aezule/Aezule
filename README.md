@@ -49,7 +49,7 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/orkeilius"><img width="24" src="images/magreupfp.jpeg" alt="magreupfp" /> orkeilius</a> |8/30/2024, 6:34:29 PM| <img width="24" src="images/magreu.png" alt="magreu" />|
+| <a href="https://github.com/orkeilius"><img width="24" src="images/magreupfp.png" alt="magreupfp" /> orkeilius</a> |8/30/2024, 6:34:29 PM| <img width="400" src="images/magreu.png" alt="magreu" />|
 
 <!-- /Guestbook -->
 
