@@ -37,6 +37,5 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/Aezule"><img width="24" src="https://avatars.githubusercontent.com/u/135966635?s=24&u=83f717e8053f270f0d165a3bb59b24828ded8e90&v=4" alt="Aezule" /> Aezule</a> |9/2/2024, 10:00:40 PM|test|
 | <a href="https://github.com/Aezule"><img width="24" src="https://avatars.githubusercontent.com/u/135966635?s=24&u=83f717e8053f270f0d165a3bb59b24828ded8e90&v=4" alt="Aezule" /> Aezule</a> |9/2/2024, 9:20:50 PM|Test <( ￣^￣)>|
 | <a href="https://github.com/Aezule"><img width="24" src="https://avatars.githubusercontent.com/u/135966635?s=24&u=83f717e8053f270f0d165a3bb59b24828ded8e90&v=4" alt="Aezule" /> Aezule</a> |9/2/2024, 9:15:11 PM|Test o((>ω< ))o|
