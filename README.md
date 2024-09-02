@@ -10,8 +10,8 @@
 </div>
 <div align="center">
   <img alt="react"  width="1000" height="500" src="images/react.svg">
-
 </div>
+
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
