@@ -6,7 +6,7 @@
   <img height="50" alt="My Name is Zully and I like Next.js" src="images/personalNote.svg" />
   <br />
   <br />
-  <img alt="react"  width="1000" height="500" src="images/react.svg">
+  <img alt="react" width="1000" height="500" src="images/react.svg">
     <br />
   <br />
 </div>
