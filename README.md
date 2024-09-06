@@ -14,7 +14,7 @@
 
 
 <audio controls>
-  <source src="music/necro.mp3" type="audio/mpeg">
+  <source src="images/necro.mp3" type="audio/mpeg">
 </audio>
 
 
