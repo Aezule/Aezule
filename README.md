@@ -15,7 +15,6 @@
 
 <audio controls>
   <source src="music/necro.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
 </audio>
 
 
