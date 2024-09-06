@@ -6,16 +6,16 @@
   <img height="50" alt="My Name is Zully and I like Next.js" src="images/personalNote.svg" />
   <br />
   <br />
-</div>
-
-<div align="center">
   <img alt="react"  width="1000" height="500" src="images/react.svg">
+    <br />
+  <br />
 </div>
 
 
-<audio controls>
-  <source src="images/necro.mp3" type="audio/mpeg">
-</audio>
+
+
+
+
 
 
 <!-- Social -->
@@ -27,8 +27,9 @@
 <strong>Listen to cool music</strong>
 <br />
 <br />
-<p>
-<img height="100" alt="Music" src="images/heart.gif"> 
+
+https://github.com/user-attachments/assets/6862e603-b83a-4b63-a249-bb5091eb1a0b
+
 </a>
 </table>
 
