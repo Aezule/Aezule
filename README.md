@@ -11,6 +11,8 @@
   <img alt="react" width="750" height="750" src="images/react.svg">
     <br />
   <br />
+      <img alt="react" width="750" height="750" src="images/summer.png">
+
 </div>
 
 
