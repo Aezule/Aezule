@@ -4,6 +4,7 @@
   <br />
   <br />
   <img height="50" alt="My Name is Zully and I like Next.js" src="images/personalNote.svg" />
+  <img height="50" alt="teto-teto" src="images/teto-tetoris.gif" />
   <br />
   <br />
   <img alt="react" width="750" height="750" src="images/react.svg">
