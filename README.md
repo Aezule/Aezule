@@ -11,8 +11,11 @@
   <img alt="react" width="750" height="750" src="images/react.svg">
     <br />
   <br />
+  <h1>Me during summer (it's hot) </h1>
       <img alt="react" width="750" height="750" src="images/summer.png">
-
+ <br />
+  <br />
+  <br />
 </div>
 
 
